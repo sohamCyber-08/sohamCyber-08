@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Soham Khodke 👋
 
-<!--
-**sohamCyber-08/sohamCyber-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔐 Network Security | 🌐 Networking | 🐧 Linux
 
-Here are some ideas to get you started:
+🎓 B.Sc. Computer Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm focused on building practical skills in networking,
+network security, Linux, and cybersecurity.
+
+## 🔐 Focus Areas
+
+- 🌐 Networking
+- 🔐 Network Security
+- 🛡️ Cybersecurity
+- 🐧 Linux
+- 🔥 Firewall Security
+- 📡 Network Traffic Analysis
+
+## 🛠️ Tools & Technologies
+
+- Cisco IOS
+- EVE-NG
+- Cisco Packet Tracer
+- Wireshark
+- Linux
+
+
+## 📚 Currently Learning
+
+- 🔐 Network Security
+- 🔥 Firewall & VPN
+- 🐧 Linux Security
+- 📡 Network Monitoring
+
+## 🧪 Security Labs
+
+🚧 Practical labs and projects coming soon.
+
+## 📫 Connect With Me
+
+- 💼 www.linkedin.com/in/soham-khodke-475126353
+- 📧 sohamkhodke296@gmail.com
