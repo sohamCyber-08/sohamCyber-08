@@ -38,5 +38,5 @@ network security, Linux, and cybersecurity.
 
 ## 📫 Connect With Me
 
-- 💼 www.linkedin.com/in/soham-khodke-475126353x 
+- 💼 www.linkedin.com/in/soham-khodke-475126353
 - 📧 sohamkhodke296@gmail.com
